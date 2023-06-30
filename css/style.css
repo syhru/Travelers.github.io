@@ -1,0 +1,260 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+
+* {
+
+    box-sizing: border-box;
+}
+
+
+/* Style */
+
+
+body {
+    background-color: #030303e3;
+}
+
+
+.navbar span {
+    color: #08FDD8;
+}
+
+
+.navbar-expand-lg {
+
+    color: aliceblue;
+}
+
+.nav-right {
+
+    margin-left: 8%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.display-4 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 10px;
+}
+
+.Font {
+
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+    margin-left: -20%;
+}
+
+.MRGN {
+
+    margin-left: 20px;
+}
+
+.text-center p {
+
+    text-indent: 20px;
+
+}
+
+
+.btn-left {
+
+    position: relative;
+    left: 50%;
+}
+
+
+.mrgn {
+
+    margin-right: 25px;
+
+}
+
+.mb-5 {
+
+    text-align: center;
+}
+
+
+.fnt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: 2.5rem;
+    color: rgb(213, 213, 213);
+}
+
+.fnt-clr {
+    color: rgb(213, 213, 213);
+    font-size: 25px;
+    text-align: justify;
+    margin-bottom: 10px;
+
+}
+
+
+.m-0 {
+
+    color: rgb(213, 213, 213);
+    text-align: justify;
+}
+
+.m-up {
+
+    margin-top: -5%;
+}
+
+
+
+
+
+.card {
+
+    background-color: #0c0c0ce3;
+    box-shadow: 5px 5px 5px 5px #0c0c0ce3;
+    color: aliceblue;
+}
+
+.card-title {
+
+    font-size: 18px;
+    color: #08FDD8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.card-text {
+
+
+    margin-bottom: 25px;
+}
